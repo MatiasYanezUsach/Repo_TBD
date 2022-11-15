@@ -1,9 +1,10 @@
-# Lab1TBD
-Laboratorio 1 Taller de base de datos, Springboot &amp; vue.
+# Lab2TBD
+Laboratorio 2 Taller de base de datos, Springboot + postgis & vue + nuxt.
 
 ● Base de datos PostgreSQL
+* Extencion para postgresSQL de nombre postgis 
 ● Servicio REST desarrollado con Java Spring, conectado utilizando Sq12o
-● Frontend desarrollado con Vue
+● Frontend desarrollado con Vue + nuxt
 
 Integrantes:
 Matias Vargas
