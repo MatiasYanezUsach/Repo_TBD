@@ -22,7 +22,4 @@ Instrucciones
 public Sql2o sql2o(){
         return new Sql2o("jdbc:postgresql://127.0.0.1:5432/<nombreBD>","<postgres>","<postgresql>");
     }
-5. Reemplazar los valores entre <> por sus valores locales
-6. Notar que el Frontend se encuentra en otro repositorio debido a dificultades al subir dichos archivos.
-    El link del frontend: https://github.com/MatiasVargasMolina/frontTBDLab1.git
-7. En el README del repositorio del frontend se encuentran las instrucciones de cómo correrlo.
+5. Reemplazar los valores entre <> por sus valores locales.
