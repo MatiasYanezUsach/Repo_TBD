@@ -25,3 +25,5 @@ public Sql2o sql2o(){
 5. Reemplazar los valores entre <> por sus valores locales.
 6. Ejecutar la aplicacion.
 7. Cabe mencionar que para esta entrega no contamos con un frontend, es por ello que para asegurar que el producto si funciona, les recomendamos usar la aplicacion de postman para realizar la consulta solicitada
+8. Para ello al momento de ejecutarse la aplicacion, debe revisar el puerto que se habilita y se muestra por consola, generalmente es el puerto 8080.
+9. Una vez obtiene el puerto, debe probar en postman utilizando: localhost:8090
